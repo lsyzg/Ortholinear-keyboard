@@ -1,3 +1,10 @@
+---
+title: "Ortholinear Keyboard"
+author: "Lucas Zhang"
+description: "Custom wireless ortholinear keyboard"
+created_at: "2026-02-3"
+---
+
 2/3/26
 Began brainstorming ideas for how this keyboard should be formatted. First, it should be an ortholinear layout with an option for bluetooth or wired connection. Next, the keys should be kailh choc whites for a clicky feel. It should also be 60%.
 
